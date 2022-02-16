@@ -8,6 +8,6 @@ this project is maintained by @jonathan-ikpen &copy;
 
 
 **contact**
-
-:	email: jonathanikpen4@gmail.com
-:	gitHub username: [jonathan-ikpen](https://github.com/jonathan-ikpen/alx-pre_course)
+:
+	email: jonathanikpen4@gmail.com
+	gitHub username: [jonathan-ikpen](https://github.com/jonathan-ikpen/alx-pre_course)
